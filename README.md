@@ -1,2 +1,2 @@
-# Dart
-Dart temelleri
+# Dart Temellerini ile flutter a giriş
+
